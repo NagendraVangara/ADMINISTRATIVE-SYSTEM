@@ -1,6 +1,10 @@
 # ADMINISTRATIVE-SYSTEM
 
+### Following successful user login, application displays two pages for profile and menus.
+
 ![PROFILE](https://github.com/NagendraVangara/ADMINISTRATIVE-SYSTEM/assets/145798696/b7aa436b-8427-4803-8f4b-a9f87945c30d)
+
+### Modules (Applications) are displayed on the menu below according to permissions.
 
 ![MENU](https://github.com/NagendraVangara/ADMINISTRATIVE-SYSTEM/assets/145798696/d8713ab5-0fb5-40a6-8a39-1c8fae420850)
 
